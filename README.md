@@ -19,47 +19,20 @@
 - :heavy_check_mark: 写代码不出bug的几率比在Minecraft里挖到钻石的几率还小
 
 
-
-
 ### 最擅长的语言
 
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-</a>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /></code>
 
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-</a>
 
 ### 正在学习的东西
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
-</a>
-
-<a href="https://grimoire.cn">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-</a>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></code>
+<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></code>
 
 ### 数据统计
 

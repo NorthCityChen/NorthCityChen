@@ -21,22 +21,25 @@
 
 ### 最擅长的语言
 
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /></code>
-
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<br>
 
 ### 正在学习的东西
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></code>
-<code><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></code>
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<br>
 
 ### 数据统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthCityChen)](https://github.com/anuraghazra/github-readme-stats) ![NorthCityChen's github stats](https://github-readme-stats.vercel.app/api?username=NorthCityChen&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthCityChen)](https://github.com/anuraghazra/github-readme-stats) 
+
+![NorthCityChen's github stats](https://github-readme-stats.vercel.app/api?username=NorthCityChen&show_icons=true)
 
 ### 其他
 

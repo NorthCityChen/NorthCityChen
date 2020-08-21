@@ -17,17 +17,16 @@
 
 ### 技术栈
 
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
 <br>
 
 ### Learning
 
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <br>
 
@@ -35,6 +34,7 @@
 
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
+<br>
 
 ### 数据统计
 

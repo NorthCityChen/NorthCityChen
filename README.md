@@ -1,6 +1,4 @@
-### Hi 👋I'm NorthCityChen!
-
-:link: [我的博客](https://grimoire.cn)
+### Hi 👋I'm [NorthCityChen](https://grimoire.cn)!
 
 这里是城北徐公子（MrSen），中国哈尔滨某末流高校计算机专业学生，热爱编写程序以及开源世界。
 
@@ -24,20 +22,22 @@
 
 ### Learning
 
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <br>
 
 ### Wanna to Learn
 
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
 <br>
 
 ### 数据统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthCityChen)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![NorthCityChen's github stats](https://github-readme-stats.vercel.app/api?username=NorthCityChen&show_icons=true)
+
+----
+
+:star: From [NorthCityChen](https://grimoire.cn)

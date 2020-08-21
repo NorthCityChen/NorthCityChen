@@ -15,28 +15,29 @@
 - :bug: 很难想象我能写出没有bug的程序 :roll_eyes:
 
 
-### 最擅长的语言
+### 技术栈
 
 <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
 <br>
 
-### 正在学习的东西
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+### Learning
+
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <br>
+
+### Wanna to Learn
+
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
 
 ### 数据统计
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthCityChen)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![NorthCityChen's github stats](https://github-readme-stats.vercel.app/api?username=NorthCityChen&show_icons=true)
-
-### 其他
-
-我前天刚删掉了我的一堆二进制垃圾，所以上面的统计结果也就做个参考吧 :smile:

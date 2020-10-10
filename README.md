@@ -1,6 +1,6 @@
 ### Hi 👋I'm [NorthCityChen](https://grimoire.cn)!
 
-这里是城北徐公子（MrSen），中国哈尔滨某末流高校计算机专业学生，热爱编写程序以及开源世界。
+这里是城北徐公子（MrSen），中国哈尔滨某高校计算机专业学生，热爱编写程序以及开源世界。
 
 但是截止目前为止，我还没有什么比较优秀的作品，但是以后一定会写出令自己满意的程序的 :smile:
 
@@ -8,9 +8,9 @@
 
 - :tada: 闲暇时间喜欢看日漫
 
-- :computer: 偶尔会参加一些信息竞赛，但是是一只蒻苟（主要用C++），面对装逼的题解常常会用国际友好手势 :fu: 问候他
+- :computer: 目前主要精力都在参加信息竞赛上
 
-- :bug: 很难想象我能写出没有bug的程序 :roll_eyes:
+- :bug: 上帝保佑我能写出没有bug的程序 :roll_eyes:
 
 
 ### 技术栈
@@ -25,13 +25,13 @@
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <br>
 
 ### Wanna to Learn
 
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
+<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <br>
 
 ### 数据统计

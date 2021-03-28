@@ -1,6 +1,6 @@
 ### Hi 👋I'm [NorthCityChen](https://grimoire.cn)!
 
-这里是城北徐公子（MrSen），一名来自中国(China)的开发者，热爱编写程序以及开源世界 :earth_asia: 。
+这里是城北徐公子(MrSen)，一名来自中国(China)的开发者，热爱编写程序以及开源世界 :earth_asia: 。
 
 我同时在[github](https://github.com/NorthCityChen)和[gitee](https://gitee.com/NorthCityChen)上提交代码，但是截止目前为止，我还没有什么比较优秀的作品，但是以后一定会写出令自己满意的程序的 :smile:
 

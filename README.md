@@ -21,12 +21,16 @@
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 
 <br>
+<br>
+<br>
 
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
 
+<br>
+<br>
 <br>
 
 ### Learning

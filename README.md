@@ -1,6 +1,6 @@
 ### Hi 👋I'm [NorthCityChen](https://grimoire.cn)!
 
-这里是城北徐公子(MrSen)，一名来自中国(China)的开发者，热爱编写程序以及开源世界 :earth_asia: 。
+这里是北城(NorthCityChen)，一名来自中国(China)的开发者，热爱编写程序以及开源世界 :earth_asia: 。
 
 我同时在[github](https://github.com/NorthCityChen)和[gitee](https://gitee.com/NorthCityChen)上提交代码，目前主要的技术栈是go语言和python
 

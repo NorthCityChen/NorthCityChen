@@ -1,6 +1,6 @@
 ### Hi 👋I'm [NorthCityChen](https://grimoire.cn)!
 
-这里是北城(NorthCityChen)，一名来自中国(China)的开发者，热爱编写程序以及开源世界 :earth_asia: 。
+这里是北城(NorthCityChen)，一名来自中国 ( China ) 的开发者，热爱编写程序以及开源世界 🌏。
 
 我同时在[github](https://github.com/NorthCityChen)和[gitee](https://gitee.com/NorthCityChen)上提交代码，目前主要的技术栈是 go 语言和 C++
 
@@ -8,11 +8,11 @@
 
 ### 一些个人信息
 
-- :tada: 闲暇时间喜欢看日漫
+- 🎉 闲暇时间喜欢看日漫
 
-- :computer: dai 三懒狗，准退役 ACMer
+- 💻 一条懒狗 🐶，退役 ACMer
 
-- :bug: 日常会产出非常多二进制垃圾与 bug
+- 🐛 日常会产出非常多二进制垃圾与 bug
 
 
 ### 技术栈
@@ -44,4 +44,4 @@
 
 ----
 
-:star: From [NorthCityChen](https://grimoire.cn)
+🌟 From [NorthCityChen](https://grimoire.cn)
